@@ -1,4 +1,4 @@
-### 👋
+### 👋 Hi!
 
 I am a multi-skilled Data Scientist, experienced in Data Analysis and Data Visualization. I am passionate about learning new things and, most of all, sharing knowledge with others. I use data to tell stories, increase data literacy of audiences and make information more accessible
 
